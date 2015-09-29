@@ -1,0 +1,12 @@
+section {
+	min-height: 500px;
+	min-width: 80%;
+	border: black 2px solid;
+	position:relative;
+}
+
+section #my-form {
+	display: inline-block;
+	position:absolute;
+		bottom:0;
+}
